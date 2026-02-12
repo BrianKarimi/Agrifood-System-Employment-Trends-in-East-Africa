@@ -2,7 +2,7 @@
 
 Analysis of employment indicators in agriculture across East African countries using ILO, FAO, labour force surveys, household surveys, and census data.
 
-**Dataset source**: [FAOSTAT] (https://www.fao.org/faostat/en/#data/OEA) 
+**Dataset source**: [FAOSTAT] (https://www.fao.org/faostat/en/#data/OEA)
 **File**: `Employment_Indicators_Agriculture_E_Africa_NOFLAG.csv`  
 **Time period in focus**: 2000–2023  
 **Geographic focus**: East Africa (Kenya, Ethiopia, Uganda, Tanzania, Rwanda, Burundi)
